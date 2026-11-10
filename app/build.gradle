@@ -26,5 +26,5 @@ android {
 }
 
 dependencies {
-    implementation 'androidx.appcompat:appcompat:1.6.1'
+    // Библиотеки не нужны, мы используем только встроенные средства Android
 }
